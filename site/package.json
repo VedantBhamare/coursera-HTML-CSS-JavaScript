@@ -1,0 +1,24 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "This is a online billing software",
+  "main": "first.html",
+  "scripts": {
+    "start":"npm rum lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VedantBhamare/BootStrap-Coursera.git"
+  },
+  "author": "Vedant Bhamare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VedantBhamare/BootStrap-Coursera/issues"
+  },
+  "homepage": "https://github.com/VedantBhamare/BootStrap-Coursera#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
