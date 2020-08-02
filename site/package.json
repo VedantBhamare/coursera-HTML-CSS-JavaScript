@@ -4,7 +4,7 @@
   "description": "This is a online billing software",
   "main": "first.html",
   "scripts": {
-    "start":"npm rum lite",
+    "start": "npm rum lite",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
@@ -20,5 +20,10 @@
   "homepage": "https://github.com/VedantBhamare/BootStrap-Coursera#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.12.9"
   }
 }
